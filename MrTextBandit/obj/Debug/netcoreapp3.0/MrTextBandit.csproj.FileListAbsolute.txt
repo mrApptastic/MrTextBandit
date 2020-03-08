@@ -1,0 +1,10 @@
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.exe
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.deps.json
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.runtimeconfig.json
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.runtimeconfig.dev.json
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.dll
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\bin\Debug\netcoreapp3.0\MrTextBandit.pdb
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\obj\Debug\netcoreapp3.0\MrTextBandit.AssemblyInfoInputs.cache
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\obj\Debug\netcoreapp3.0\MrTextBandit.AssemblyInfo.cs
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\obj\Debug\netcoreapp3.0\MrTextBandit.dll
+C:\Users\Henrik\Documents\MrTextBandit\MrTextBandit\obj\Debug\netcoreapp3.0\MrTextBandit.pdb
