@@ -96,7 +96,10 @@ namespace MrTextBandit
                         title = title.Substring(0, title.IndexOf(".txt") + 4);
                         string body = bo.Substring(bo.IndexOf(beginEndTag) + beginEndTag.Length, (bo.IndexOf(doneStartTag)) - (bo.IndexOf(beginEndTag) + beginEndTag.Length));
 
-                        string path = input + baseString + "/" + title;
+                        string dir = input + baseString + "/";
+                        string path = dir + title;
+
+                        Directory.CreateDirectory(dir);
 
                         File.WriteAllText(path, body, System.Text.Encoding.UTF8);
                     }
