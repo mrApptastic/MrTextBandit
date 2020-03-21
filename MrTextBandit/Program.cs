@@ -5,7 +5,7 @@ namespace MrTextBandit
 {
     class Program
     {
-        static string settings = "Settings.txt";
+        static string settings = @"c:\temp\Settings.txt";
         static string input = "";
         static string output = "";
         static string startText = @"START";
