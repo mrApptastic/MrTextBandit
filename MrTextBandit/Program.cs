@@ -107,5 +107,16 @@ namespace MrTextBandit
                 }
             }
         }
+
+        static void CreateDocFile() {
+            /*
+            Microsoft.Office.Interop.Word.Application app = new Microsoft.Office.Interop.Word.Application();    
+            Microsoft.Office.Interop.Word.Document doc = app.Documents.Open(@"e:\testdoc1.docx");
+            object missing = System.Reflection.Missing.Value;                        
+            doc.Content.Text += "";
+            app.Visible = true;
+            doc.Save();            ;          
+            */
+        }
     }
 }
